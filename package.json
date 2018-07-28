@@ -14,10 +14,10 @@
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
   "author": "Michael Solati mkslt04@gmail.com",
-  "homepage": "https://github.com/MichaelSolati/geofirestore/",
+  "homepage": "https://github.com/rayansindi1/geofirestore",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MichaelSolati/geofirestore.git"
+    "url": "https://github.com/rayansindi1/geofirestore.git"
   },
   "bugs": {
     "url": "https://github.com/MichaelSolati/geofirestore/issues"
